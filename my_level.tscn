@@ -1,0 +1,94 @@
+[gd_scene load_steps=2 format=3 uid="uid://d2w4lcwrp4tct"]
+
+[ext_resource type="Texture2D" uid="uid://b8re70ikseqaj" path="res://icon.svg" id="1_npako"]
+
+[node name="MyLevel" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+z_index = 1
+position = Vector2(493, 161.786)
+scale = Vector2(1.04687, 0.768974)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D19" type="Sprite2D" parent="."]
+z_index = 1
+position = Vector2(627, 162)
+scale = Vector2(1.04687, 0.768974)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D12" type="Sprite2D" parent="."]
+position = Vector2(558.415, 377.506)
+scale = Vector2(0.690739, 0.608864)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D13" type="Sprite2D" parent="."]
+position = Vector2(647.415, 396.506)
+scale = Vector2(0.690739, 0.608864)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D14" type="Sprite2D" parent="."]
+position = Vector2(471.415, 403.506)
+scale = Vector2(0.690739, 0.608864)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D15" type="Sprite2D" parent="."]
+position = Vector2(467.311, 535.539)
+scale = Vector2(0.876619, 1.5625)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D16" type="Sprite2D" parent="."]
+position = Vector2(648.415, 534.781)
+scale = Vector2(0.876619, 1.57435)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D5" type="Sprite2D" parent="."]
+position = Vector2(380.207, 126.539)
+scale = Vector2(0.690739, 0.608864)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D6" type="Sprite2D" parent="."]
+position = Vector2(379.207, 201.539)
+scale = Vector2(0.690739, 0.608864)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D10" type="Sprite2D" parent="."]
+position = Vector2(352.207, 276.539)
+scale = Vector2(0.690739, 0.608864)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D17" type="Sprite2D" parent="."]
+position = Vector2(227, 184)
+rotation = -0.736072
+scale = Vector2(0.251619, 2.87474)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D18" type="Sprite2D" parent="."]
+position = Vector2(279, 251)
+rotation = -2.32652
+scale = Vector2(0.251619, 1.20755)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D7" type="Sprite2D" parent="."]
+position = Vector2(734.207, 127.539)
+scale = Vector2(0.690739, 0.608864)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D8" type="Sprite2D" parent="."]
+position = Vector2(735.207, 204.539)
+scale = Vector2(0.690739, 0.608864)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D11" type="Sprite2D" parent="."]
+position = Vector2(765.207, 282.539)
+scale = Vector2(0.690739, 0.608864)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D9" type="Sprite2D" parent="."]
+position = Vector2(558.207, 276.269)
+scale = Vector2(1.01074, 0.988584)
+texture = ExtResource("1_npako")
+
+[node name="Sprite2D3" type="Sprite2D" parent="."]
+position = Vector2(560.207, 58.5387)
+scale = Vector2(0.931306, 0.820917)
+texture = ExtResource("1_npako")
